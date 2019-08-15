@@ -48,7 +48,3 @@ Please cite the following paper if you use this code in your research paper:
   organization={IEEE}
 }
 ```
-
-## Contributions
-Feel free to send your pull request or open issues.
-
